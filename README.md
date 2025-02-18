@@ -2,3 +2,4 @@
 This bot can create lobbies for custom games. If desired, it can be fully automated.
 
 If you're interested in this bot, hit me up on Discord at "chaos.prophet".
+The source code won't be published here.
