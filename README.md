@@ -1,2 +1,4 @@
 # Dota-2-Bot-Lobby
-Bot for creating custom game lobbies in Dota 2
+This bot can create lobbies for custom games. If desired, it can be fully automated.
+
+If you're interested in this bot, hit me up on Discord at "chaos.prophet".
